@@ -1,0 +1,10 @@
+  .flex-container {
+    display: flex;
+    height: 100vh;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+  }
+
+  .flex-item {
+    width: 200px;
+  }

@@ -1,0 +1,14 @@
+  .flex-container {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .item-2 {
+    font-size: 150px;
+  }
+
+  .item-4 {
+    font-size: 100px;
+  }
